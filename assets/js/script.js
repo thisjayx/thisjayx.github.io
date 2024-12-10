@@ -8,35 +8,32 @@
 
 const musicData = [
   {
-    backgroundImage: "./assets/images/poster-1.jpg",
-    posterUrl: "./assets/images/poster-1.jpg",
-    title: "Happy Moments (Master)",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit x Tonion",
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Cherish In The Dark",
+    album: "CG5",
+    artist: "",
     musicPath: "./assets/music/music-1.mp3",
   },
   {
-    backgroundImage: "./assets/images/poster-2.jpg",
-    posterUrl: "./assets/images/poster-2.jpg",
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
     title: "We Are Going To Be Ok (Master)",
     album: "No Spirit",
-    year: 2022,
     artist: "No Spirit x Jhove",
     musicPath: "./assets/music/music-2.mp3",
   },
   {
-    backgroundImage: "./assets/images/poster-3.jpg",
-    posterUrl: "./assets/images/poster-3.jpg",
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
     title: "Winter Meadow",
     album: "No Spirit",
-    year: 2022,
     artist: "No Spirit x  juniorodeo",
     musicPath: "./assets/music/music-3.mp3",
   },
   {
-    backgroundImage: "./assets/images/poster-4.jpg",
-    posterUrl: "./assets/images/poster-4.jpg",
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
     title: "From Where We Started",
     album: "No Spirit",
     year: 2022,
@@ -44,13 +41,229 @@ const musicData = [
     musicPath: "./assets/music/music-4.mp3",
   },
   {
-    backgroundImage: "./assets/images/poster-5.jpg",
-    posterUrl: "./assets/images/poster-5.jpg",
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
     title: "Where I Found You",
     album: "No Spirit",
     year: 2022,
     artist: "No Spirit",
     musicPath: "./assets/music/music-5.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Blissful",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Jhove",
+    musicPath: "./assets/music/music-6.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-7.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-8.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-9.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-10.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-11.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-12.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-13.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-14.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-15.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-16.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-17.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-18.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-19.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-20.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-21.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-22.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-23.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-24.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-25.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-26.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-27.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-28.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-default.jpg",
+    posterUrl: "./assets/images/poster-default.jpg",
+    title: "Happy Moments (Master)",
+    album: "No Spirit",
+    year: 2022,
+    artist: "No Spirit x Tonion",
+    musicPath: "./assets/music/music-29.mp3",
   },
 ];
 
@@ -84,7 +297,7 @@ for (let i = 0, len = musicData.length; i < len; i++) {
         class="img-cover">
 
       <div class="item-icon">
-        <span class="material-symbols-rounded">equalizer</span>
+        <span class="material-symbols-rounded">play_arrow</span>
       </div>
     </button>
   </li>
@@ -152,6 +365,14 @@ const playerYear = document.querySelector("[data-year]");
 const playerArtist = document.querySelector("[data-artist]");
 
 const audioSource = new Audio(musicData[currentMusic].musicPath);
+
+// Add an event listener for when the audio ends
+// New code from ChatGPT
+audioSource.addEventListener("ended", () => {
+  skipNext();
+});
+// End of new code
+
 
 const changePlayerInfo = function () {
   playerBanner.src = musicData[currentMusic].posterUrl;
@@ -334,18 +555,57 @@ playerSkipPrevBtn.addEventListener("click", skipPrev);
 /** get random number for shuffle */
 const getRandomMusic = () => Math.floor(Math.random() * musicData.length);
 
-const shuffleMusic = () => currentMusic = getRandomMusic();
+// Comment out old code
+// const shuffleMusic = () => currentMusic = getRandomMusic();
+
+// New code from ChatGPT
+// Array to track played songs in shuffle mode
+let playedSongs = [];
+
+const shuffleMusic = () => {
+  // If all songs have been played, reset the playedSongs array
+  if (playedSongs.length === musicData.length) {
+    playedSongs = [];
+  }
+
+  // Generate a random music index that hasn't been played yet
+  let randomIndex;
+  do {
+    randomIndex = getRandomMusic();
+  } while (playedSongs.includes(randomIndex));
+
+  playedSongs.push(randomIndex); // Add the selected song to the played list
+  currentMusic = randomIndex; // Update currentMusic to the new shuffled song
+};
+// End of new code
 
 const playerShuffleBtn = document.querySelector("[data-shuffle]");
 let isShuffled = false;
 
-const shuffle = function () {
+/* Comment out old code
+  const shuffle = function () {
   playerShuffleBtn.classList.toggle("active");
 
   isShuffled = isShuffled ? false : true;
 }
 
 playerShuffleBtn.addEventListener("click", shuffle);
+*/
+
+//New code from ChatGPT
+// Shuffle toggle logic with reset for playedSongs
+const shuffle = function () {
+  playerShuffleBtn.classList.toggle("active");
+
+  isShuffled = isShuffled ? false : true;
+
+  if (!isShuffled) {
+    playedSongs = []; // Reset playedSongs when shuffle is turned off
+  }
+};
+
+playerShuffleBtn.addEventListener("click", shuffle);
+// End of new code
 
 
 
