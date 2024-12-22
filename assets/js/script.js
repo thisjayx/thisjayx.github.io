@@ -295,6 +295,38 @@ const musicData = [
     artist: "YouTube",
     musicPath: "./assets/music/music-33.mp3",
   },
+  {
+    backgroundImage: "./assets/images/poster-34.jpg",
+    posterUrl: "./assets/images/poster-34.jpg",
+    title: "Tower Defense Simulator OST - Nuclear Fallen King",
+    album: "Phoqus",
+    artist: "YouTube",
+    musicPath: "./assets/music/music-34.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-35.jpg",
+    posterUrl: "./assets/images/poster-35.jpg",
+    title: "Tower Defense Simulator OST - Going Nuclear! (Nuclear Monster Theme)",
+    album: "Paradoxum Games",
+    artist: "YouTube",
+    musicPath: "./assets/music/music-35.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-36.jpg",
+    posterUrl: "./assets/images/poster-36.jpg",
+    title: "ABSTRACTION (ft. Michael Kovach & Caleb Hyles)",
+    album: "KittenSneeze",
+    artist: "YouTube",
+    musicPath: "./assets/music/music-36.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-37.jpg",
+    posterUrl: "./assets/images/poster-37.jpg",
+    title: "SEE YOU AGAIN (ft. Kali Uchis)",
+    album: "Tyler, The Creator",
+    artist: "YouTube",
+    musicPath: "./assets/music/music-37.mp3",
+  },
 ];
 
 
